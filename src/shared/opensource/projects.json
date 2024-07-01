@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "KWIQ by Kingcards",
+      "createdAt": "2023-04-13T04:18:19Z",
+      "url": "https://kingcards.ng/",
+      "description": "Welcome to a world of seamless trades. Sell your Bitcoins, Ethereum, USDT, Litecoin, BNB, Tron and other crypto instantly at unbeatable rates.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Aipalbot",
+      "createdAt": "2022-08-13T20:41:33Z",
+      "url": "https://play.google.com/store/apps/details?id=com.aipalbot.us",
+      "description": "Aipalbot is a robotic media platform that makes it easy for everyone to have a bot, robot or chatbot. You can train a bot, chat with your bot privately or publicly, you can share your bot's data publicly with other users or privately within a timeline.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Shkula",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://play.google.com/store/apps/details?id=org.foresightridge.shkula",
+      "description": "Shkula is a school management app that improves school - parent relationship. Parents have easy access to their child in school without having to go through a hassle. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Shkula Teacher",
+      "createdAt": "2021-01-01T08:31:51Z",
+      "url": "https://play.google.com/store/apps/details?id=org.foresightridge.shkula_teacher",
+      "description": "Shkula is a school management app that improves school - parent relationship. Parents have easy access to their child in school without having to go through a hassle. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    }
+  ]
+}
