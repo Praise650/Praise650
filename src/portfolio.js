@@ -128,8 +128,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Developing mobile applications using Flutter",
+        // "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
         {
@@ -271,9 +271,11 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
+        // "⚡ Customizing logo designs and building logos from scratch",
+        "⚡ Developing mobile applications using Flutter",
         "⚡ Creating the flow of application functionalities to optimize user experience",
         "⚡ Converting UI desings into application functionalities to optimize user experience",
+        // "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin"
       ],
       softwareSkills: [
         {
@@ -368,29 +370,29 @@ const degrees = {
     {
       title: "Federal University of Technology, Akure",
       subtitle: "B.Tech. in Computer Science",
-      logo_path: "iiitk_logo.png",
+      logo_path: "fut.png",
       alt_name: "FUTA",
       duration: "2018 - 2024",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Mobile Development, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
       website_link: "https://futa.edu.ng/",
     },
-    {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
-    },
+    // {
+    //   title: "Indiana University Bloomington",
+    //   subtitle: "M.S. in Computer Science",
+    //   logo_path: "iu_logo.png",
+    //   alt_name: "Indiana University Bloomington",
+    //   duration: "2021 - 2023",
+    //   descriptions: [
+    //     "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+    //     "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+    //     "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+    //   ],
+    //   website_link: "https://www.indiana.edu/",
+    // },
   ],
 };
 
@@ -511,8 +513,7 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
-  description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+  description: "As a seasoned mobile developer, I've had the privilege of collaborating with innovative startups and established industry leaders. Beyond my professional experience, I'm passionate about staying updated on the latest tech trends and advancements. I regularly attend industry events and conferences to expand my network and knowledge, driving growth and excellence in the tech ecosystem.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -523,45 +524,22 @@ const experience = {
           title: "Mobile Developer Intern",
           company: "Aipalbot LLC",
           company_url: "https://aipalbotinfotech.com/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "aipalbot_logo.png",
           duration: "August 2022 - Present",
           location: "649 mission St, 5th floor San Francisco, CA, 94105, USA",
-          description:
-            "Developed the User Interface screens by integrating different views to make them user- friendly. • Coordinating with the design team to define the user interface (UI/UX) requirements for the application. Implementing Rest API to get all response from server end and render the data on screens as per the keyword. Designed the complete MVVC flow for the application UI components and controllers to be used by the app. Consumed Web Apis for both android and iOS application development including rest apis and SOAP web services in XML in implementing functionalities such as Authentication flows, data presentation.",
+          description: "Developed the User Interface screens by integrating different views to make them user- friendly. • Coordinating with the design team to define the user interface (UI/UX) requirements for the application. Implementing Rest API to get all response from server end and render the data on screens as per the keyword. Designed the complete MVVC flow for the application UI components and controllers to be used by the app. Consumed Web Apis for both android and iOS application development including rest apis and SOAP web services in XML in implementing functionalities such as Authentication flows, data presentation.",
           color: "#000000",
         },
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "HYBRID Mobile Developer",
+          company: "Foresight Ridge",
+          company_url: "http://www.foresightridge.org/",
+          logo_path: "foresight_ridge_logo.jpeg",
+          duration: "June 2021 - July 2022",
+          location: "Ondo State, Nigeria",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "•Implemented UI designs for applications. •Contributed to the full mobile application development life-cycle from planning, requirement gathering, development, testing and launching on the google play store for beta testing. • Responsible for consuming APIs, getting JSON responses and parsing them to get the required information. • Using the serialized JSON to read the response that came through the server. • Used Firebase service as back-end to create database and analytics to store data used by the application for better user experience. • Involved in UI discussions to enhance the look and feel of the application. • Used tools like Android Studio for development and git and GitHub for version control, Firebase for database.",
           color: "#0879bf",
-        },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
         },
       ],
     },
@@ -570,39 +548,39 @@ const experience = {
       experiences: [
         {
           title: "Web Developer Intern",
-          company: "FoilmRE.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
+          company: "FilmoRE",
+          company_url: "https://www.filmorealestate.com/",
+          logo_path: "filmorealty_logo.png",
           duration: "Nov 2023 - Feb 2024",
           location: "Lagos, Nigeria",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+            "FilmoRE is the facility management company. I learn Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
           color: "#000000",
         },
         {
           title: "Mobile Developer Intern",
           company: "Cholatrek Institute.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
+          company_url: "https://cholatrek.io/",
+          logo_path: "cholatrek_logo.png",
+          duration: "March 2021 - June 2021",
           location: "Ondo state, Nigeria",
           description:
             "Taught fundamentals of Programming, Mobile development in the scope of Flutter framework and Dart programming language, tools to make development easier and also provided mentorship on real life projects.",
           // I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.
           color: "#ee3c26",
         },
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
-          description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
-        },
+        // {
+        //   title: "Data Science Intern",
+        //   company: "Intel Indexer LLC",
+        //   company_url:
+        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
+        //   logo_path: "intel_logo.jpg",
+        //   duration: "Nov 2018 - Dec 2018",
+        //   location: "Work From Home",
+        //   description:
+        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
+        //   color: "#0071C5",
+        // },
       ],
     },
     {
@@ -612,7 +590,7 @@ const experience = {
           title: "Web Developer",
           company: "Redeemed Christain Fellowship, Akure",
           company_url: "https://about.google/",
-          logo_path: "google_logo.png",
+          logo_path: "rcf_logo.jpg",
           duration: "June 2021 - Nobvember 2024",
           location: "Ondo State, Nigeria",
           description:
@@ -623,7 +601,7 @@ const experience = {
           title: "ICT Cordinator",
           company: "Christ Redeemer's Ministeries",
           company_url: "https://about.google/",
-          logo_path: "google_logo.png",
+          logo_path: "crm_logo.jpg",
           duration: "November 2023 - September 2024",
           location: "Lagos, Nigeria",
           description:
@@ -684,7 +662,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Mobile applications and flutter projects and deploy them to playstore and appstore.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -726,7 +704,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with, React, Android, iOS, Flutter.",
   },
   blogSection: {
     title: "Blogs",
@@ -737,18 +715,18 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
+    subtitle: "Ondo State, Nigeria",
+    locality: "Akure",
+    country: "NG",
+    region: "Ondo State",
     postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    streetAddress: "FUTA Southgate",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone",
+    subtitle: "+234 8142602528",
   },
 };
 
