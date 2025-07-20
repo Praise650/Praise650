@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/PraiseAfuwape" target="blank"><img src="https://img.shields.io/twitter/follow/PraiseAfuwape?logo=twitter&style=for-the-badge" alt="PraiseAfuwape" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PraiseAfuwape&label=Total%20Profile%20Views&color=800080&style=flat" alt="PraiseAfuwape" /> </p>
 
-- 🔭 I’m currently working on [GeoTaask]([https://github.com/Praise650/Bloxity](https://github.com/Praise650/geotaask))
+- 🔭 I’m currently working on [GeoTaask](https://github.com/Praise650/Bloxity](https://github.com/Praise650/geotaask)
 
 <!-- - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma** -->
 
