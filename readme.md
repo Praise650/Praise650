@@ -1,44 +1,144 @@
-<h2 align="center">Hi 👋, I'm Praise Afuwape</h2>
-<h3 align="center">A passionate Mobile Developer with a flair for Dart, Java, Flutter</h3>
+<div align="center">
 
-<p align="center"> <a href="https://twitter.com/PraiseAfuwape" target="blank"><img src="https://img.shields.io/twitter/follow/PraiseAfuwape?logo=twitter&style=for-the-badge" alt="PraiseAfuwape" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PraiseAfuwape&label=Total%20Profile%20Views&color=800080&style=flat" alt="PraiseAfuwape" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a11cb,100:2575fc&text=Praise%20Afuwape&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Mobile%20Engineer%20(Flutter)%20%C2%B7%20DevOps%20Engineer&descAlignY=58&descSize=18" alt="Praise Afuwape – Flutter & DevOps Engineer" />
 
-- 🔭 I’m currently working on [GeoTaask](https://github.com/Praise650/geotaask)
+<a href="https://github.com/praise650/geotaask"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2575FC&center=true&vCenter=true&width=620&lines=5%2B+years+shipping+production+Flutter+apps;Owning+infrastructure+for+40%2B+production+services;From+Play+Store+release+to+CI%2FCD+pipelines;Currently+working+on+GeoTaask+%F0%9F%9A%80" alt="Typing intro" /></a>
 
-<!-- - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma** -->
+<br/>
 
-<!-- - 👯 I’m looking to collaborate on [Autonomov](https://autonomov.vercel.app) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://praise650.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praiseafuwape)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PraiseAfuwape)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayokanmi1275@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/praise650](https://github.com/praise650)
+<img src="https://komarev.com/ghpvc/?username=praise650&label=Profile%20Views&color=6a11cb&style=flat-square" alt="Profile views" />
 
-- 👨‍💻 All of my projects are available at [praiseafuwape](https://praise650.github.io/portfolio)
-  
-<!-- - 📝 I sometimes write articles on [https://blog.elcharitas.dev](https://blog.elcharitas.dev) -->
+</div>
 
-- 💬 Ask me about **Flutter, Android, Dart, Java**
+---
 
-- 📫 How to reach me **ayokanmi1275@gmail.com**
+## 👋 About Me
 
-- 📫 Socials **[Twitter](https://twitter.com/PraiseAfuwape) [LinkedIn](https://www.linkedin.com/in/praise-afuwape-a47a95214/)**
+I'm a **Flutter engineer turned DevOps engineer**. I've spent 5+ years building production mobile apps across fintech, mobility and logistics, and that work led me into automating releases, then owning the infrastructure behind them.
 
-<!-- - 📄 Know about my experiences [https://elcharitas.dev](https://elcharitas.dev) -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- ⚡ Fun fact **I play the guitar**
+### 📱 Mobile Engineering
+- Production Flutter apps for **fintech, mobility & logistics**
+- Clean, scalable architecture: **BLoC/Cubit, MVVM, Provider, Riverpod**
+- Real-time features (Socket.IO, FCM), maps, payments, offline-first
+- Shipped to **Google Play & App Store**
 
+</td>
+<td width="50%" valign="top">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praise650&theme=dracula" alt="praise650" /></a> </p>
+### ⚙️ DevOps & Infrastructure
+- Own infra for **40+ production services** at Uverus
+- **Docker, Dokploy, GitHub Actions**, hardened Linux servers
+- Secrets, DNS, backups & monitoring (**Doppler, Bunny, Aiven, S3, Checkly**)
+- Cut Docker images from **~1.2GB → 700–800MB**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praise650&show_icons=false&locale=en&langs_count=15" alt="praise650" /></p>
+</td>
+</tr>
+</table>
 
-<!-- <a href="https://app.daily.dev/praise650"><img src="https://api.daily.dev/devcards/cf82a72702dc436bb0d59be992f22761.png?r=95r" width="300" alt="Praise Afuwape | Mobile Dev Card"/></a> -->
+- 🔭 Currently building **[Zing](https://github.com/praise650/zing)**
+- 💬 Ask me about **Flutter, Dart, Android, Java, CI/CD, self-hosted infra**
+- 🎸 Fun fact: I play the guitar
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praise650&" alt="praise650" /></p>
+---
 
-[![Praise Afuwape's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praise650&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ## 🚀 Highlights
 
-## Languages and Tools
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+| | |
+|---|---|
+| ⏱️ **Release time: ~45 hrs → 2 hrs** | Built a GitHub Actions pipeline that versions, signs, builds and publishes Android releases to the Play Store on every push (~95% faster) |
+| 🧰 **Command Center** | Internal app (React, Vite, Supabase) that tracks cost, owner and billing cycle for every service, with alerts ahead of renewals |
+| 💸 **Cost optimization** | Consolidated 40+ services onto a self-managed VPS, with dev/staging shut down on weekends |
+| 🔐 **Security hardening** | SSH key-only access, non-root deploys, IP-whitelisted databases, secrets moved to Doppler |
+| 🚗 **Ryto** | Ride-hailing and parcel delivery app with live polyline routing, Socket.IO chat and a multi-layer push pipeline |
+| 🧪 **Zing** | Flutter study app with a 224-test suite covering unit, Cubit and widget tests |
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayokanmi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayokanmi" /></a></p>
+--- -->
+
+## 🛠️ Tech Stack
+
+**Mobile & Languages**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%20(Laravel)-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**State, Data & Backend**
+
+![BLoC](https://img.shields.io/badge/BLoC%20%2F%20Cubit-0175C2?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B0FF?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS%20S3%20%2F%20EC2-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Doppler](https://img.shields.io/badge/Doppler-5C4EE5?style=flat-square)
+![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/praise650">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=praise650&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+</a>
+<a href="https://github.com/praise650">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praise650&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=praise650&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak stats" />
+
+</div>
+
+<details>
+<summary><b>🏆 Trophies & activity graph</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=praise650&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praise650&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+### ☕ Enjoy my work?
+
+<a href="https://www.buymeacoffee.com/ayokanmi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy me a coffee" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:2575fc,100:6a11cb" alt="" />
+
+</div>
